@@ -20,6 +20,8 @@ namespace DatingApp.Extensions
 
             services.AddScoped<IPhotoService, PhotoService>();
 
+            services.AddScoped<LogUserActivity>();
+
             services.AddAutoMapper(typeof(AutoMapperProfile).Assembly);
 
             services.AddDbContext<DataContext>(options =>

@@ -59,7 +59,6 @@ D:\AngularAndDotNetStudy\DatingAppApi\DatingApp\DatingApp\bin\Debug\net5.0\runti
 D:\AngularAndDotNetStudy\DatingAppApi\DatingApp\DatingApp\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
 D:\AngularAndDotNetStudy\DatingAppApi\DatingApp\DatingApp\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
 D:\AngularAndDotNetStudy\DatingAppApi\DatingApp\DatingApp\bin\Debug\net5.0\Data\UserSeedData.json
-D:\AngularAndDotNetStudy\DatingAppApi\DatingApp\DatingApp\obj\Debug\net5.0\DatingApp.csproj.AssemblyReference.cache
 D:\AngularAndDotNetStudy\DatingAppApi\DatingApp\DatingApp\bin\Debug\net5.0\AutoMapper.dll
 D:\AngularAndDotNetStudy\DatingAppApi\DatingApp\DatingApp\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
 D:\AngularAndDotNetStudy\DatingAppApi\DatingApp\DatingApp\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
@@ -67,3 +66,9 @@ D:\AngularAndDotNetStudy\DatingAppApi\DatingApp\DatingApp\bin\Debug\net5.0\Micro
 D:\AngularAndDotNetStudy\DatingAppApi\DatingApp\DatingApp\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
 D:\AngularAndDotNetStudy\DatingAppApi\DatingApp\DatingApp\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
 D:\AngularAndDotNetStudy\DatingAppApi\DatingApp\DatingApp\bin\Debug\net5.0\CloudinaryDotNet.dll
+D:\AngularAndDotNetStudy\DatingAppApi\DatingApp\DatingApp\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\AngularAndDotNetStudy\DatingAppApi\DatingApp\DatingApp\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\AngularAndDotNetStudy\DatingAppApi\DatingApp\DatingApp\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\AngularAndDotNetStudy\DatingAppApi\DatingApp\DatingApp\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+D:\AngularAndDotNetStudy\DatingAppApi\DatingApp\DatingApp\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+D:\AngularAndDotNetStudy\DatingAppApi\DatingApp\DatingApp\obj\Debug\net5.0\DatingApp.csproj.AssemblyReference.cache
